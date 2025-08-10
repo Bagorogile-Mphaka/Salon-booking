@@ -1,2 +1,24 @@
 # Salon-booking
-Salon Booking App is a simple, intuitive web app that allows customers to easily book salon appointments and lets salon owners manage schedules in real-time. Built with C#, it features user authentication, service management, and notifications—all in a responsive design for seamless use on any device.
+A user-friendly web application that streamlines salon appointment scheduling for customers and salon owners. Built with C#, it offers real-time booking management, user authentication, service customization, and notifications—all optimized for desktop and mobile.
+
+Features
+Easy appointment booking for customers
+
+Real-time availability to prevent double bookings
+
+User authentication with profile management
+
+Salon dashboard to view and manage appointments
+
+Service management to add or update salon offerings
+
+Automated notifications via email or SMS reminders
+
+Responsive design for all device types
+
+Technologies Used
+Backend: C# (.NET Framework/Core)
+
+Frontend: JavaScript
+
+Database: [Specify your database, e.g., SQL Server, SQLite]
