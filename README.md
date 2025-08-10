@@ -21,4 +21,4 @@ Backend: C# (.NET Framework/Core)
 
 Frontend: JavaScript
 
-Database: [Specify your database, e.g., SQL Server, SQLite]
+Database: SQL
